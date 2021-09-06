@@ -1,0 +1,9 @@
+batch: 1 temperature: 166C pressure: 66psi dwell time: 2.5s
+batch: 1 temperature: 168C pressure: 69psi dwell time: 2.2s
+batch: 1 temperature: 163C pressure: 80psi dwell time: 1.9s
+batch: 2 temperature: 163C pressure: 65psi dwell time: 2.2s
+batch: 2 temperature: 165C pressure: 68psi dwell time: 2.3s
+batch: 2 temperature: 170C pressure: 70psi dwell time: 2.5s
+batch: 3 temperature: 175C pressure: 65psi dwell time: 2.7s
+batch: 3 temperature: 166C pressure: 75psi dwell time: 2.2s
+batch: 3 temperature: 152C pressure: 65psi dwell time: 2.1s

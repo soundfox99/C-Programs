@@ -1,0 +1,3 @@
+The smallest number is -4.640000
+The second smallest number is -3.730000
+The third smallest number is -3.580000

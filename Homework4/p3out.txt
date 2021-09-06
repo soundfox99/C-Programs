@@ -1,0 +1,9 @@
+The string: n, has 0 vowels
+The string: jexkoqsz, has 2 vowels
+The string: opqak, has 2 vowels
+The string: e, has 1 vowels
+The string: e, has 1 vowels
+The string: iowjeqnirub, has 5 vowels
+
+The string with the most vowels is: iowjeqnirub, and it has 5 vowels
+The string with the least vowels is: n, and it has 0 vowels

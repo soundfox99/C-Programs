@@ -1,0 +1,5 @@
+INITIAL (2.4,3.5)
+RIGHT 2.0;
+LEFT 1;
+UP 3;
+DOWN 4.0;

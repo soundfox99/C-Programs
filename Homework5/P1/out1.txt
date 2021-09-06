@@ -1,0 +1,3 @@
+The average of the positive numbers is 3.888571
+The average of the negative numbers is -4.698571
+The average of the zero is zero
